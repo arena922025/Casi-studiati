@@ -8,8 +8,8 @@ Competenze sviluppate
 - Reporting e analisi con *Excel avanzato*
 - Utilizzo di *Open Data* e formati strutturati (CSV, XML)
 - Analisi KPI e supporto al controllo di gestione
-- - Analisi dati con *Python*
 - Interrogazione database con *SQL*
+- Analisi dati con *Python*
 - Creazione di dashboard con *Power BI* e *Looker Studio*
 
 Struttura del repository
